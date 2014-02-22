@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "name": "Dogecoin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.654422,45.5424364]
+      },
+      "properties": {
+        "name": "Dogehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0748679,-33.7626799]
+      },
+      "properties": {
+        "name": "Dogehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.710388,35.673343]
+      },
+      "properties": {
+        "name": "ShibaInu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.2714635,51.9730949]
+      },
+      "properties": {
+        "name": "Pizza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.2952286,18.0841893]
+      },
+      "properties": {
+        "name": "Bobsled"
+      }
+    }
+  ]
+}
