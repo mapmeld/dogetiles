@@ -2,11 +2,13 @@
 
 Dogetiles is a basemap designed for Dogecoin and other Doge memes.
 
-Quirky labels mimic the Doge meme and maps sites relevant to Dogecoin (the cities
-where Shiba Inus are from, where Dogecoin was first created, where the first pizza
+Labels mimic the Doge meme and icons map sites relevant to Dogecoin (where
+Shiba Inus are from, where Dogecoin was first created, where the first pizza
 was bought for Dogecoin, etc).
 
-<img src="http://i.imgur.com/T1cT6VU.png"/>
+<img src="http://i.imgur.com/sFs6Nqr.png"/>
+
+<img src="http://i.imgur.com/Gi39XoR.png"/>
 
 **If you are trying to add a clickable business, see
 <a href="https://github.com/dogecoinmap/dogecoinmap.github.io">DogecoinMap</a>**.
@@ -61,6 +63,10 @@ to resolve, or click 'fork' to use this code for your own project.
 
 * More Doge-ified names for countries!
 
-* Better icons!
+* Better, homemade icons!
 
-* More Dogepoints!
+* More Dogecoin history!
+
+* Add businesses to <a href="https://github.com/dogecoinmap/dogecoinmap.github.io">DogecoinMap</a>
+
+Wow.
